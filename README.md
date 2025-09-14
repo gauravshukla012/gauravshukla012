@@ -11,16 +11,22 @@ Hi there, I'm Gaurav Shukla, a purposeful data analyst based in Delhi, India. I 
 ### Data Analysis & Visualization
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## Portfolio Projects
+## Projects
 
 I will adding things here.
 
-### 1. E-commerce Sales Analysis
-* **Description:** Analyzed sales data for a UK-based online retailer to identify sales trends, top products, and perform RFM customer segmentation for targeted marketing.
-* **Skills Used:** Python, Pandas, Matplotlib, Seaborn.
+### 1. Live National Air Quality Monitoring Dashboard
+* **Description:** A fully automated dashboard that monitors the National Air Quality Index (AQI) for 200+ cities across India. It visualizes real-time levels of key pollutants, including PM2.5, PM10, SO2, and NO2.
+* **Skills Used:** Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Streamlit | API Integration
+* **Live Dashboard:** https://pollution-dashboard-bygauravshukla5dlgmc6nopnwhurtxbshp.streamlit.app/
 * **Repository:** `[Link to your project repository]`
 
 ### 2. Customer Churn Prediction
