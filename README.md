@@ -1,11 +1,4 @@
-# Gaurav Shukla
-*Motivated Data Analyst | SQL | Python | Power BI | Excel*
-
----
-
 Hi there 👋, I'm Gaurav Shukla, a data analyst based in Delhi, India. I am passionate about leveraging data to solve real-world business problems and drive decision-making. My expertise lies in cleaning, analyzing, and visualizing data to uncover actionable insights. I am currently seeking full-time Data Analyst opportunities in the Delhi/NCR region.
-
----
 
 ## 🛠️ Technical Skills
 
