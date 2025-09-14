@@ -23,10 +23,10 @@ Hi there, I'm Gaurav Shukla, a purposeful data analyst based in Delhi, India. I 
 
 I will adding things here.
 
-### 1. Live National Air Quality Monitoring Dashboard
-* **Description:** A fully automated dashboard that monitors the National Air Quality Index (AQI) for 200+ cities across India. It visualizes real-time levels of key pollutants, including PM2.5, PM10, SO2, and NO2.
+### 1. National Air Quality Monitoring Dashboard
+* **Description:** A fully automated dashboard that monitors and visualizes the real-time Air Quality Index (AQI) for 200+ cities across India, tracking key pollutants like PM2.5, PM10, SO2, and NO2.
 * **Skills Used:** Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Streamlit | API Integration
-* **Live Dashboard:** https://pollution-dashboard-bygauravshukla5dlgmc6nopnwhurtxbshp.streamlit.app/
+* **Live Dashboard:** **[Explore the Dashboard](https://pollution-dashboard-bygauravshukla5dlgmc6nopnwhurtxbshp.streamlit.app/)**
 * **Repository:** `[Link to your project repository]`
 
 ### 2. Customer Churn Prediction
