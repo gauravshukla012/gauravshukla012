@@ -34,11 +34,6 @@ I will adding things here.
 * **Skills Used:** SQL, Power Bi.
 * **Repository:** **[See Repository](https://github.com/gauravshukla012/RFM-Customer-Segmentation-Analysis)**
 
-### 3. [Your Third Project Title]
-* **Description:** [A brief, one-sentence description of your project's goal and business value.]
-* **Skills Used:** [List the key skills and technologies used.]
-* **Repository:** `[Link to your project repository]`
-
 ---
 
 ## 📜 Certifications
