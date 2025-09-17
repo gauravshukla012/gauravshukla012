@@ -29,7 +29,7 @@ I will adding things here.
 * **Live Dashboard:** **[Explore the Dashboard](https://pollution-dashboard-bygauravshukla5dlgmc6nopnwhurtxbshp.streamlit.app/)**
 * **Repository:** **[See Repository](https://github.com/gauravshukla012/pollution-dashboard)**
 
-### 2. Customer Churn Prediction
+### 2. RFM-Customer-Segmentation-Analysis
 * **Description:** segmention of customers using the RFM (Recency, Frequency, Monetary) model. The analysis, conducted with SQL and visualized in Power BI, identified a critical business risk: the company's historically highest-spending customer segment is now largely inactive.
 * **Skills Used:** SQL, Power Bi.
 * **Repository:** **[See Repository](https://github.com/gauravshukla012/RFM-Customer-Segmentation-Analysis)**
