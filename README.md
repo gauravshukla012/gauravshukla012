@@ -27,12 +27,12 @@ I will adding things here.
 * **Description:** A fully automated dashboard that monitors and visualizes the real-time Air Quality Index (AQI) for 200+ cities across India, tracking key pollutants like PM2.5, PM10, SO2, and NO2.
 * **Skills Used:** Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Streamlit | API Integration
 * **Live Dashboard:** **[Explore the Dashboard](https://pollution-dashboard-bygauravshukla5dlgmc6nopnwhurtxbshp.streamlit.app/)**
-* **Repository:** `[Link to your project repository]`
+* **Repository:** **[See Repository](https://github.com/gauravshukla012/pollution-dashboard)**
 
 ### 2. Customer Churn Prediction
-* **Description:** Developed a model to predict customer churn for a telecom company. Performed exploratory data analysis and feature engineering to identify key drivers of churn.
-* **Skills Used:** Python, Scikit-learn, Pandas, Data Visualization.
-* **Repository:** `[Link to your project repository]`
+* **Description:** segmention of customers using the RFM (Recency, Frequency, Monetary) model. The analysis, conducted with SQL and visualized in Power BI, identified a critical business risk: the company's historically highest-spending customer segment is now largely inactive.
+* **Skills Used:** SQL, Power Bi.
+* **Repository:** **[See Repository](https://github.com/gauravshukla012/RFM-Customer-Segmentation-Analysis)**
 
 ### 3. [Your Third Project Title]
 * **Description:** [A brief, one-sentence description of your project's goal and business value.]
@@ -43,12 +43,12 @@ I will adding things here.
 
 ## 📜 Certifications
 
-* **[Certification Name]** - *[Issuing Organization]* ([Link to Certificate])
-* **Google Data Analytics Professional Certificate** - *Coursera* ([Link to Certificate])
+* **[Data Analytics Course]** - *[Physics Wallah]* **[View Credentials](https://pwskills.com/learn/certificate/90f5ccd0-ce29-44fa-b2a7-371d95d9fe76/)**
+* **Data	Visualisation: Empowering Business with Effective Insights** - *Coursera* **[View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_oqY7KXzGNbhcp76ih_1724493647860_completion_certificate.pdf)**
 
 ---
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [https://linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-* **Email:** [your.professional.email@example.com](mailto:your.professional.email@example.com)
+* **LinkedIn:** **[Connect](www.linkedin.com/in/gaurav-shukla-data012)**
+* **Email:** [Mail](gauravshuklag195@gmail.com)
