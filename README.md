@@ -44,11 +44,11 @@ I will adding things here.
 ## 📜 Certifications
 
 * **[Data Analytics Course]** - *[Physics Wallah]* **[View Credentials](https://pwskills.com/learn/certificate/90f5ccd0-ce29-44fa-b2a7-371d95d9fe76/)**
-* **Data	Visualisation: Empowering Business with Effective Insights** - *Coursera* **[View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_oqY7KXzGNbhcp76ih_1724493647860_completion_certificate.pdf)**
+* **Data	Visualisation: Empowering Business with Effective Insights** - *Forage* **[View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_oqY7KXzGNbhcp76ih_1724493647860_completion_certificate.pdf)**
 
 ---
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** **[Connect](www.linkedin.com/in/gaurav-shukla-data012)**
+* **LinkedIn:** **[Connect](https://linkedin.com/in/gaurav-shukla-data012)**
 * **Email:** [Mail](gauravshuklag195@gmail.com)
